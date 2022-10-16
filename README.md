@@ -83,7 +83,7 @@ I'm also a co-organizer of <a href="https://js.la">JS.LA</a>, a Los Angeles Java
   <br />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-<p align="center">
+<p>
   <img alt="Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anguspiv&theme=vue" />
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anguspiv" />
 </p>
