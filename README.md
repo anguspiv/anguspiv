@@ -39,9 +39,7 @@ I'm also a co-organizer of <a href="https://js.la">JS.LA</a>, a Los Angeles Java
   <img alt="D3.js" src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
   <img alt="Angular.js" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
   <img alt="Backbone.js" src="https://img.shields.io/badge/backbone%20js-0071B5?style=for-the-badge&logo=backbone.js&logoColor=white" />
-  <br />
-  <br />
-  Currently Learning <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <br />
   <br />
   <b>Backend</b>
