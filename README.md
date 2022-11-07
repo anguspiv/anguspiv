@@ -23,6 +23,8 @@ I'm also a co-organizer of <a href="https://js.la">JS.LA</a>, a Los Angeles Java
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+## Stats
 <p>
   <img alt="Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anguspiv&theme=vue" />
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anguspiv" />
